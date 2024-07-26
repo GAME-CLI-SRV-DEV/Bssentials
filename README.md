@@ -1,6 +1,6 @@
 # Bssentials [![Build Status](https://ci.codemc.org/buildStatus/icon?job=IsaiahPatton%2FBssentials)](https://ci.codemc.org/job/IsaiahPatton/job/Bssentials/)
 
-1.19 portion
+1.20 portion
 
 ## What is Bssentials
 Bssentials is a total remake of Essentials from the ground up!
