@@ -1,6 +1,6 @@
 # Bssentials [![Build Status](https://ci.codemc.org/buildStatus/icon?job=IsaiahPatton%2FBssentials)](https://ci.codemc.org/job/IsaiahPatton/job/Bssentials/)
 
-Bssentials version 3.x is a rewrite of Essentials made to be more optimized & fix alot of bugs.
+1.19 portion
 
 ## What is Bssentials
 Bssentials is a total remake of Essentials from the ground up!
@@ -18,11 +18,9 @@ with newer functionaly.
 To Build with Maven, use the command ```mvn package```
 To build with Eclipse simply make sure you have the ```Spigot-API.jar``` added to the classpath & export normaly.
 
-## Compatability
-The EssentialsBridge provides support for the Essentials API
-The "EssentialsBridge" module is a compatability layer between the Essentials API & Bssentials.
-Plugins like **Vault**, **ChestShop**, **GroupManager**, **EssentialsChat**, and others that depend on Essentials
-will work with Bssentials with out any modifications to them due to the [EssentialsBridge](https://dev.bukkit.org/projects/essentialsapibridge)
+## Fun Fact:
+You can make your own BBS Service Provider
+With Netssentials. 
 
 ## Licence
 
