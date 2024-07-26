@@ -5,6 +5,7 @@ repositories {
   maven("https://repo1.maven.org/maven2/")
   maven("https://oss.sonatype.org/content/repositories/snapshots")
   maven("https://oss.sonatype.org/content/repositories/central")
+  maven("https://repo.papermc.io/repository/maven-public/")
 }
 
 plugins {
@@ -13,8 +14,8 @@ plugins {
 }
 
 java {
-    sourceCompatibility = JavaVersion.VERSION_1_8
-    targetCompatibility = JavaVersion.VERSION_1_8
+    sourceCompatibility = JavaVersion.VERSION_21
+    targetCompatibility = JavaVersion.VERSION_21
 }
 
 base {
@@ -32,6 +33,6 @@ sourceSets {
 }
 
 dependencies {
-  compileOnly("org.spigotmc:spigot-api:1.16.5-R0.1-SNAPSHOT")
+  compileOnly("io.papermc.paper:paper-api:1.20.6-R0.1-SNAPSHOT")
   //compileOnly("cloud.commandframework", "cloud-core", "1.6.0")
 }
