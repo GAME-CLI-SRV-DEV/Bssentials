@@ -65,7 +65,6 @@ tasks.withType<ShadowJar> {
   }
   relocate("org.yaml", "bssentials.include")
   //relocate("cloud", "bssentials.include")
-  classifier = null
   exclude("mappings/mappings.tiny")
   archiveFileName.set("Bssentials-Fabric-dev.jar")
 }
