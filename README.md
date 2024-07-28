@@ -1,9 +1,8 @@
-# Bssentials [![Build Status](https://ci.codemc.org/buildStatus/icon?job=IsaiahPatton%2FBssentials)](https://ci.codemc.org/job/IsaiahPatton/job/Bssentials/)
-
-Bssentials version 3.x is a rewrite of Essentials made to be more optimized & fix alot of bugs.
+# BssentialsX 
+BssentialsX version 3.x is a rewrite of Essentials made to be more optimized & fix alot of bugs.
 
 ## What is Bssentials
-Bssentials is a total remake of Essentials from the ground up!
+Bssentials is a total remake of Essentials from the ground up.
 We do our best to provide a great remake of Essentials.
 
 ## Why use Bssentials instead of EssentialsX?
@@ -14,16 +13,18 @@ Essentials is also filled with proformance issues & bad practices.
 Remaking Essentials from the ground up also gives us the ability for better proformance & less resource-intensive,
 with newer functionaly.
 
+## BssentialsX Version
+BssentialsX Version is BssentialsX 3.0.1-dev+00-SNAPSHOT
+
 ## Building
 To Build with Maven, use the command ```mvn package```
 To build with Eclipse simply make sure you have the ```Spigot-API.jar``` added to the classpath & export normaly.
 
 ## Compatability
-The EssentialsBridge provides support for the Essentials API
-The "EssentialsBridge" module is a compatability layer between the Essentials API & Bssentials.
-Plugins like **Vault**, **ChestShop**, **GroupManager**, **EssentialsChat**, and others that depend on Essentials
-will work with Bssentials with out any modifications to them due to the [EssentialsBridge](https://dev.bukkit.org/projects/essentialsapibridge)
+i am sure that BssentialsX Can Work With EssentialsX.
 
+## Dependency
+Use github package to launch this guy!
 ## Licence
 
 Copyright © 2016-2021 Bssentials Contributers
