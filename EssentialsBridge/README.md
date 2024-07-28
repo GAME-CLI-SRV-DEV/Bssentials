@@ -1,0 +1,3 @@
+# EssentialsBridge
+
+API Bridge for BssentialsX. (OUTDATED, PLEASE USE BSSENTIALSX WITH ESSENTIALSX)
